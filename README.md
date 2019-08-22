@@ -1,2 +1,2 @@
 # MatPlotLib-Samples
-Samples python programs b using MPL(MatPlotLib) Library
+Sample python programs by using MPL(MatPlotLib) Library
